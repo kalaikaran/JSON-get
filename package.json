@@ -1,0 +1,25 @@
+{
+  "name": "json-get",
+  "version": "1.0.0",
+  "description": "find JSON object ",
+  "main": "index.js",
+  "scripts": {
+    "test": "select-json"
+  },
+  "keywords": [
+    "json-select",
+    "json-get",
+    "json",
+    "json-find"
+  ],
+  "author": "Kalakaran",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kalaikaran/JSON-get.git"
+  },
+  "bugs": {
+    "url": "https://github.com/kalaikaran/JSON-get/issues"
+  },
+  "homepage": "https://github.com/kalaikaran/JSON-get#readme"
+}
