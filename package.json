@@ -21,5 +21,8 @@
   "bugs": {
     "url": "https://github.com/kalaikaran/JSON-get/issues"
   },
-  "homepage": "https://github.com/kalaikaran/JSON-get#readme"
+  "homepage": "https://github.com/kalaikaran/JSON-get#readme",
+  "dependencies": {
+    "flat": "^5.0.0"
+  }
 }
